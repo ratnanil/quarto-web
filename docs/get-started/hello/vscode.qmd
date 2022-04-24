@@ -23,7 +23,7 @@ In this tutorial we'll show you how to use Quarto with VS Code. Before getting s
 You can install the Quarto extension from within the **Extensions** tab in VS Code, from the [Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=quarto.quarto), the [Open VSX Registry](https://open-vsx.org/extension/quarto/quarto) or directly from a [VISX extension file](https://github.com/quarto-dev/quarto-vscode#visx-install).
 
 ::: {.callout-note}
-This tutorial focuses on editing plain text Quarto `.qmd` files in VS Code. You can alternatively use the VS Code Notebook Editorif you prefer to work with `.ipynb` files.
+This tutorial focuses on editing plain text Quarto `.qmd` files in VS Code. You can alternatively use the VS Code Notebook Editor if you prefer to work with `.ipynb` files.
 
 For the purposes of learning we recommend you follow along with the `.qmd` examples. At the end of this article there is a link to documentation on using the [Notebook Editor](/docs/tools/vscode.qmd#notebook-editor) with Quarto that will apply what you've learned to notebooks.
 :::
