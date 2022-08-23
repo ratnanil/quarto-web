@@ -24,7 +24,7 @@ book:
 
 -   The index file is required and includes preface, acknowledgements, etc. Headings in the index file are unnumbered by default.
 -   The remainder of `chapters` includes one or more book chapters.
--   The `references.md` file will include the generated bibliography (see [References] below for details).
+-   The `references.qmd` file will include the generated bibliography (see [References] below for details).
 
 ## Titles
 
